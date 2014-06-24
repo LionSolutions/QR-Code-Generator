@@ -7,4 +7,4 @@ Please feel free to contribute to this project, adding new encoding techiniques 
 
 ----------------------
 
-I choose this project because I wanted to challenge myself. I wanted to learn something new and follow an open standard to create a project which had an unbelievable complexity. (for my ability at the time when I completed it)
+I chose this project because I wanted to challenge myself. I wanted to learn something new and follow an open standard to create a project which had an unbelievable complexity. (for my ability at the time when I completed it)
